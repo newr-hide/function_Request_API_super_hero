@@ -22,7 +22,7 @@ def get_the_smartest_superhero() -> str:
 
 
 
-    #print(max(tmp_dict))
+    print(max(tmp_dict))
 
 
     return max(tmp_dict)
